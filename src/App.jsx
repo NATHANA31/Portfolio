@@ -2,9 +2,9 @@ import './App.css'
 import { motion } from 'framer-motion'
 import profilePic from '../Profile pic.jpg'
 import resumePdf from '../CV.pdf'
-import fupremedpic from '../fupremedicare.jpg'
-import mentorshippic from '../mentorship.jpg'
-import schoolreportpic from '../reportcard mgmt.png'
+import fupremedpic from '../FUPREMEDICARE.jpg'
+import mentorshippic from '../MENTORSHIP.jpg'
+import schoolreportpic from '../REPORTCARD MGMT.png'
 
 const fadeInUp = {
   hidden: { opacity: 0, y: 32 },
